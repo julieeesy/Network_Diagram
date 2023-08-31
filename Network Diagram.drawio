@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T01:08:30.443Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 OPR/101.0.0.0" etag="MBj0KrbUrVv7iMIJus2T" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T01:42:51.704Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 OPR/101.0.0.0" etag="--xvM0x5HayeTCLDnmcz" version="21.7.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="872" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,10 +17,10 @@
           <mxGeometry x="1100" y="250" width="78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Z5l-YCBJY1nO2jLgvpTq-1" value="" style="shape=mxgraph.cisco.computers_and_peripherals.printer;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="579.5" y="611" width="91" height="34" as="geometry" />
+          <mxGeometry x="573" y="623.5" width="91" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Z5l-YCBJY1nO2jLgvpTq-4" value="" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="770" y="597.5" width="90" height="61" as="geometry" />
+          <mxGeometry x="762" y="610" width="90" height="61" as="geometry" />
         </mxCell>
         <mxCell id="Z5l-YCBJY1nO2jLgvpTq-7" value="" style="shape=mxgraph.cisco.routers.wireless_router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="586" y="399" width="78" height="77" as="geometry" />
@@ -40,10 +40,10 @@
             <mxPoint x="580" y="447" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z5l-YCBJY1nO2jLgvpTq-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="Z5l-YCBJY1nO2jLgvpTq-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="476" as="sourcePoint" />
-            <mxPoint x="620" y="611" as="targetPoint" />
+            <mxPoint x="620" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z5l-YCBJY1nO2jLgvpTq-19" value="Internet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -65,13 +65,13 @@
           <mxGeometry x="1109" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z5l-YCBJY1nO2jLgvpTq-26" value="Printer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="579.5" y="658.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="578.5" y="671" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z5l-YCBJY1nO2jLgvpTq-27" value="Cellphone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="934" y="658.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="921" y="671" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z5l-YCBJY1nO2jLgvpTq-28" value="Laptop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="785" y="658.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="777" y="671" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z5l-YCBJY1nO2jLgvpTq-30" value="Wireless Router" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="595" y="350" width="60" height="30" as="geometry" />
@@ -128,23 +128,35 @@
         </mxCell>
         <mxCell id="GzxTZp4g4ZEOkEMfRrCZ-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="Z5l-YCBJY1nO2jLgvpTq-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="520" as="sourcePoint" />
-            <mxPoint x="750" y="510" as="targetPoint" />
+            <mxPoint x="660" y="540" as="sourcePoint" />
+            <mxPoint x="869" y="627.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="815" y="520" />
+              <mxPoint x="810" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GzxTZp4g4ZEOkEMfRrCZ-14" value="" style="shape=mxgraph.cisco.modems_and_phones.cell_phone;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="947" y="597.5" width="34" height="58" as="geometry" />
+          <mxGeometry x="934" y="610" width="34" height="58" as="geometry" />
         </mxCell>
         <mxCell id="GzxTZp4g4ZEOkEMfRrCZ-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="GzxTZp4g4ZEOkEMfRrCZ-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="816" y="519.5" as="sourcePoint" />
+            <mxPoint x="810" y="540" as="sourcePoint" />
             <mxPoint x="1011" y="597.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="964" y="520" />
+              <mxPoint x="950" y="540" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4P_-pe6sC7Y5ofYYJbip-1" value="" style="shape=mxgraph.cisco.wireless.wlan_controller;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="558" y="517" width="101" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="4P_-pe6sC7Y5ofYYJbip-2" value="Wireless Access &lt;br&gt;Point" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4P_-pe6sC7Y5ofYYJbip-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Z5l-YCBJY1nO2jLgvpTq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="618.26" y="573" as="sourcePoint" />
+            <mxPoint x="618.26" y="607" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
